@@ -1,0 +1,7 @@
+#misc
+*ipynb_checkpoints
+
+#data
+*.csv
+
+#chain
